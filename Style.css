@@ -1,0 +1,35 @@
+.boite {
+  display: flex;
+  flex-wrap: nowrap;
+  width:150px;
+  height: 150px;
+
+}
+.carre1{
+  background-color: #87262a;
+  width:150px;
+  height: 150px;
+  padding-left: 70%;
+  padding-right: 70%;
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+.carre2{
+  background-color: #87262a;
+  width:150px;
+  height: 150px;
+  padding-left: 70%;
+  padding-right: 70%;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.carre3{
+  background-color: #87262a;
+  width:150px;
+  height: 150px;
+  padding-left: 70%;
+  padding-right: 70%;
+  margin-left: 20px;
+  margin-right: 20px;
+}
