@@ -1,21 +1,21 @@
-h1 {
+body{
+  background-color:#2e425d;
+}
+
+h1,h2 {
   color: #546883;
   text-align:center;
 
 }
-h2{
-  text-align: center;
-}
-h3{
-  text-align: center;
-}
-body{
-  background-color:#2e425d;
-  background-image: url(https://i.imgur.com/hmeQkKP.png),url(https://i.imgur.com/gWlpKHQ.png);
-  background-repeat: no-repeat,no-repeat;
-  background-position: center,center;
-}
 
-p{
+.background{
+  background: url(https://i.imgur.com/gWlpKHQ.png) no-repeat top center;
+
+}
+.cadre{
+  box-sizing: border-box;
+  background-color: rgba(84, 104, 131, 0.5);
   text-align: center;
+  color: #2e425d;
+
 }
