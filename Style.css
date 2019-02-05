@@ -1,0 +1,21 @@
+h1 {
+  color: #546883;
+  text-align:center;
+
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+body{
+  background-color:#2e425d;
+  background-image: url(https://i.imgur.com/hmeQkKP.png),url(https://i.imgur.com/gWlpKHQ.png);
+  background-repeat: no-repeat,no-repeat;
+  background-position: center,center;
+}
+
+p{
+  text-align: center;
+}
