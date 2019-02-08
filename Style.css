@@ -1,5 +1,16 @@
 body{
   background-color:#2e425d;
+
+
+}
+
+.logo:before{
+  content:"\ebf6";
+  font-family:'honeybee';
+  color: #546883;
+  font-size: 50px;
+  text-align: center;
+
 }
 
 h1{
@@ -12,6 +23,7 @@ h2{
 
 h3{
   font-size: 40px;
+
 }
 
 h1,h2 {
@@ -20,10 +32,27 @@ h1,h2 {
 
 }
 
-.background{
-  background: url(https://i.imgur.com/gWlpKHQ.png) no-repeat top center;
-
+p {
+  font: serif;
+  font-family:"Times new roman",Times;
+  font-weight: bold;
 }
+
+
+
+/*.background{
+  background: url(https://i.imgur.com/gWlpKHQ.png) no-repeat top center;
+  background-attachment:fixed;
+  background-size: 100%;
+  z-index: 1;
+}
+.logo:before{
+  content:'\ebf6';
+  font-family:'honeybee';
+  font-size: 60px;
+  color: #546883;
+
+}*/
 .cadre{
   background-color: rgba(84, 104, 131, 0.5);
   text-align: center;
