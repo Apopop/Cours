@@ -2,6 +2,18 @@ body{
   background-color:#2e425d;
 }
 
+h1{
+  font-size: 60px;
+}
+
+h2{
+  font-size: 25px;
+}
+
+h3{
+  font-size: 40px;
+}
+
 h1,h2 {
   color: #546883;
   text-align:center;
@@ -13,9 +25,7 @@ h1,h2 {
 
 }
 .cadre{
-  box-sizing: border-box;
   background-color: rgba(84, 104, 131, 0.5);
   text-align: center;
   color: #2e425d;
-
 }
