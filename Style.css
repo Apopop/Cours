@@ -1,5 +1,6 @@
 body{
   background-color:#2e425d;
+  text-align: center;
 
 
 }
@@ -8,8 +9,7 @@ body{
   content:"\ebf6";
   font-family:'honeybee';
   color: #546883;
-  font-size: 50px;
-  text-align: center;
+  font-size: 150px;
 
 }
 
@@ -28,7 +28,7 @@ h3{
 
 h1,h2 {
   color: #546883;
-  text-align:center;
+
 
 }
 
@@ -55,6 +55,5 @@ p {
 }*/
 .cadre{
   background-color: rgba(84, 104, 131, 0.5);
-  text-align: center;
   color: #2e425d;
 }
